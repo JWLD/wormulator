@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 8e726c8cb0efd463aabb4afcf5e7b2a2
+timeCreated: 1450887282
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BloodContam_0
+    21300002: BloodContam_1
+    21300004: BloodContam_2
+    21300006: BloodContam_3
+    21300008: BloodContam_4
+    21300010: BloodContam_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BloodContam_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 708
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -312.5}
+        - {x: -4, y: -291.5}
+        - {x: 7, y: -262.5}
+        - {x: 16, y: -245.5}
+        - {x: 32, y: -228.5}
+        - {x: 52, y: -232.5}
+        - {x: 68, y: -240.5}
+        - {x: 98, y: -262.5}
+        - {x: 138, y: -299.5}
+        - {x: 161, y: -317.5}
+        - {x: 178, y: -324.5}
+        - {x: 194, y: -324.5}
+        - {x: 202, y: -323.5}
+        - {x: 215, y: -314.5}
+        - {x: 220, y: -306.5}
+        - {x: 223, y: -296.5}
+        - {x: 223, y: -276.5}
+        - {x: 218, y: -252.5}
+        - {x: 201, y: -211.5}
+        - {x: 196, y: -184.5}
+        - {x: 204, y: -178.5}
+        - {x: 255, y: -188.5}
+        - {x: 295, y: -198.5}
+        - {x: 324, y: -197.5}
+        - {x: 334, y: -192.5}
+        - {x: 346, y: -181.5}
+        - {x: 352, y: -169.5}
+        - {x: 354, y: -163.5}
+        - {x: 354, y: -133.5}
+        - {x: 349, y: -120.5}
+        - {x: 340, y: -109.5}
+        - {x: 328, y: -97.5}
+        - {x: 286, y: -63.5}
+        - {x: 272, y: -49.5}
+        - {x: 257, y: -19.5}
+        - {x: 269, y: -4.5}
+        - {x: 311, y: 25.5}
+        - {x: 330, y: 40.5}
+        - {x: 341, y: 52.5}
+        - {x: 349, y: 62.5}
+        - {x: 354, y: 72.5}
+        - {x: 354, y: 93.5}
+        - {x: 350, y: 105.5}
+        - {x: 342, y: 116.5}
+        - {x: 333, y: 123.5}
+        - {x: 319, y: 129.5}
+        - {x: 303, y: 132.5}
+        - {x: 288, y: 133.5}
+        - {x: 251, y: 134.5}
+        - {x: 234, y: 136.5}
+        - {x: 210, y: 149.5}
+        - {x: 206, y: 156.5}
+        - {x: 212, y: 183.5}
+        - {x: 240, y: 237.5}
+        - {x: 245, y: 257.5}
+        - {x: 244, y: 280.5}
+        - {x: 236, y: 291.5}
+        - {x: 228, y: 299.5}
+        - {x: 211, y: 307.5}
+        - {x: 189, y: 306.5}
+        - {x: 163, y: 297.5}
+        - {x: 124, y: 276.5}
+        - {x: 92, y: 258.5}
+        - {x: 69, y: 246.5}
+        - {x: 45, y: 238.5}
+        - {x: 32, y: 237.5}
+        - {x: 11, y: 247.5}
+        - {x: -1, y: 259.5}
+        - {x: -14, y: 279.5}
+        - {x: -38, y: 319.5}
+        - {x: -43, y: 327.5}
+        - {x: -61, y: 343.5}
+        - {x: -64, y: 344.5}
+        - {x: -102, y: 344.5}
+        - {x: -112, y: 337.5}
+        - {x: -128, y: 323.5}
+        - {x: -140, y: 303.5}
+        - {x: -146, y: 287.5}
+        - {x: -162, y: 230.5}
+        - {x: -172, y: 215.5}
+        - {x: -183, y: 210.5}
+        - {x: -200, y: 211.5}
+        - {x: -219, y: 215.5}
+        - {x: -261, y: 231.5}
+        - {x: -278, y: 237.5}
+        - {x: -306, y: 237.5}
+        - {x: -316, y: 236.5}
+        - {x: -334, y: 221.5}
+        - {x: -340, y: 210.5}
+        - {x: -342, y: 188.5}
+        - {x: -340, y: 180.5}
+        - {x: -331, y: 166.5}
+        - {x: -300, y: 129.5}
+        - {x: -292, y: 116.5}
+        - {x: -287, y: 97.5}
+        - {x: -287, y: 84.5}
+        - {x: -291, y: 66.5}
+        - {x: -305, y: 44.5}
+        - {x: -347, y: 8.5}
+        - {x: -354, y: -4.5}
+        - {x: -354, y: -37.5}
+        - {x: -349, y: -47.5}
+        - {x: -337, y: -58.5}
+        - {x: -315, y: -68.5}
+        - {x: -303, y: -70.5}
+        - {x: -253, y: -81.5}
+        - {x: -239, y: -93.5}
+        - {x: -242, y: -110.5}
+        - {x: -254, y: -130.5}
+        - {x: -279, y: -169.5}
+        - {x: -300, y: -202.5}
+        - {x: -309, y: -219.5}
+        - {x: -314, y: -236.5}
+        - {x: -315, y: -259.5}
+        - {x: -311, y: -267.5}
+        - {x: -298, y: -281.5}
+        - {x: -277, y: -284.5}
+        - {x: -252, y: -278.5}
+        - {x: -188, y: -254.5}
+        - {x: -161, y: -248.5}
+        - {x: -141, y: -249.5}
+        - {x: -132, y: -257.5}
+        - {x: -115, y: -298.5}
+        - {x: -105, y: -320.5}
+        - {x: -91, y: -338.5}
+        - {x: -80, y: -344.5}
+        - {x: -46, y: -344.5}
+        - {x: -36, y: -338.5}
+        - {x: -25, y: -327.5}
+    - name: BloodContam_1
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 466
+        width: 156
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: -47.5}
+        - {x: -8, y: -81.5}
+        - {x: 10, y: -83.5}
+        - {x: 78, y: -83.5}
+        - {x: 78, y: -5.5}
+        - {x: 51, y: 81.5}
+        - {x: 40, y: 83.5}
+        - {x: -52, y: 83.5}
+        - {x: -78, y: 74.5}
+    - name: BloodContam_2
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 456
+        width: 136
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 96}
+        - {x: -68, y: 87}
+        - {x: -68, y: -22}
+        - {x: -49, y: -94}
+        - {x: -42, y: -96}
+        - {x: -21, y: -96}
+        - {x: 68, y: -21}
+        - {x: 68, y: 89}
+        - {x: 63, y: 96}
+    - name: BloodContam_3
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 481
+        width: 195
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 68.5}
+        - {x: -78.5, y: 52.5}
+        - {x: -97.5, y: 25.5}
+        - {x: -97.5, y: -16.5}
+        - {x: -66.5, y: -68.5}
+        - {x: 97.5, y: -68.5}
+        - {x: 97.5, y: 53.5}
+        - {x: 72.5, y: 68.5}
+    - name: BloodContam_4
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 153
+        width: 174
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 73}
+        - {x: -56, y: 71}
+        - {x: -87, y: 25}
+        - {x: -87, y: -58}
+        - {x: -57, y: -73}
+        - {x: 31, y: -73}
+        - {x: 82, y: -20}
+        - {x: 87, y: 18}
+        - {x: 87, y: 73}
+    - name: BloodContam_5
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 157
+        width: 137
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 98}
+        - {x: -68.5, y: 8}
+        - {x: -68.5, y: -86}
+        - {x: -36.5, y: -98}
+        - {x: 53.5, y: -98}
+        - {x: 68.5, y: -73}
+        - {x: 68.5, y: 5}
+        - {x: 12.5, y: 98}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: af5e9f772309c48e2b75b5a3d96625bf
+timeCreated: 1450794000
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blood_0
+    21300002: Blood_1
+    21300004: Blood_2
+    21300006: Blood_3
+    21300008: Blood_4
+    21300010: Blood_5
+    21300012: Blood_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blood_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 188
+        width: 708
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108.36384, y: -10.539902}
+        - {x: 116.36384, y: 4.4600983}
+        - {x: 116.36384, y: 43.4601}
+        - {x: 83.36384, y: 113.4601}
+        - {x: 79.36384, y: 113.4601}
+        - {x: 20.363838, y: 89.4601}
+        - {x: -4.636162, y: 113.4601}
+        - {x: -43.63616, y: 113.4601}
+        - {x: -114.63616, y: 85.4601}
+        - {x: -114.63616, y: -45.5399}
+        - {x: -105.63616, y: -81.5399}
+        - {x: -98.63616, y: -91.5399}
+        - {x: -66.63616, y: -111.5399}
+        - {x: 86.36384, y: -111.5399}
+        - {x: 78.36384, y: -69.5399}
+        - {x: 116.36384, y: -75.5399}
+        - {x: 116.36384, y: -28.539902}
+    - name: Blood_1
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 643
+        width: 156
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.476562, y: -12.003479}
+        - {x: -20.476562, y: -24.003479}
+        - {x: -0.4765625, y: -27.003479}
+        - {x: 25.523438, y: -27.003479}
+        - {x: 25.523438, y: 11.996521}
+        - {x: 15.5234375, y: 27.996521}
+        - {x: -17.476562, y: 27.996521}
+        - {x: -25.476562, y: 24.996521}
+    - name: Blood_2
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 634
+        width: 136
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.25174, y: 32.078217}
+        - {x: -22.25174, y: 29.078217}
+        - {x: -22.25174, y: -24.921783}
+        - {x: -18.25174, y: -30.921783}
+        - {x: -6.2517395, y: -30.921783}
+        - {x: 10.7482605, y: -22.921783}
+        - {x: 22.74826, y: -4.9217834}
+        - {x: 22.74826, y: 29.078217}
+        - {x: 12.7482605, y: 32.078217}
+    - name: Blood_3
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 658
+        width: 195
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.675446, y: 22.860352}
+        - {x: -31.675446, y: 21.860352}
+        - {x: -31.675446, y: -0.13964844}
+        - {x: -23.675446, y: -13.139648}
+        - {x: -2.6754456, y: -22.139648}
+        - {x: 24.324554, y: -22.139648}
+        - {x: 33.324554, y: -13.139648}
+        - {x: 33.324554, y: 22.860352}
+    - name: Blood_4
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 331
+        width: 174
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.02121, y: 24.32869}
+        - {x: -28.02121, y: 19.32869}
+        - {x: -28.02121, y: -20.67131}
+        - {x: -21.02121, y: -23.67131}
+        - {x: 12.97879, y: -23.67131}
+        - {x: 28.97879, y: 7.3286896}
+        - {x: 28.97879, y: 24.32869}
+    - name: Blood_5
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 335
+        width: 137
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.343567, y: 33.12571}
+        - {x: -11.343567, y: 31.12571}
+        - {x: -22.343567, y: 4.1257095}
+        - {x: -22.343567, y: -23.87429}
+        - {x: -13.343567, y: -31.87429}
+        - {x: 19.656433, y: -31.87429}
+        - {x: 22.656433, y: -26.87429}
+        - {x: 22.656433, y: 18.12571}
+        - {x: 9.656433, y: 33.12571}
+    - name: Blood_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 5
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.360046, y: 28.621279}
+        - {x: 8.360046, y: 32.621277}
+        - {x: -20.639954, y: 32.621277}
+        - {x: -31.639954, y: 26.621279}
+        - {x: -31.639954, y: -23.378721}
+        - {x: -19.639954, y: -31.378721}
+        - {x: 23.360046, y: -31.378721}
+        - {x: 33.360046, y: -9.378721}
+        - {x: 33.360046, y: 13.621279}
+        - {x: 28.360046, y: 21.621279}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

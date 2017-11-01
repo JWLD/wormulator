@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 0c8a66ab8cac44183b2c89680ff88921
+timeCreated: 1450611852
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MoleSheet_0
+    21300002: MoleSheet_1
+    21300004: MoleSheet_2
+    21300006: MoleSheet_3
+    21300008: MoleSheet_4
+    21300010: MoleSheet_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MoleSheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 1549
+        height: 1923
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121.99616, y: -37.939438}
+        - {x: 121.99616, y: 26.060562}
+        - {x: 112.99616, y: 52.060562}
+        - {x: 66.99616, y: 101.06056}
+        - {x: 43.996162, y: 108.06056}
+        - {x: 45.996162, y: 145.06056}
+        - {x: 28.996162, y: 169.06056}
+        - {x: -22.003838, y: 169.06056}
+        - {x: -33.003838, y: 167.06056}
+        - {x: -52.003838, y: 142.06056}
+        - {x: -40.003838, y: 113.06056}
+        - {x: -86.00384, y: 89.06056}
+        - {x: -121.00384, y: 34.060562}
+        - {x: -121.00384, y: -64.93944}
+        - {x: -66.00384, y: -126.93944}
+        - {x: -47.003838, y: -131.93944}
+        - {x: 42.996162, y: -131.93944}
+        - {x: 53.996162, y: -124.93944}
+        - {x: 97.99616, y: -90.93944}
+        - {x: 118.99616, y: -61.939438}
+    - name: MoleSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1279
+        width: 467
+        height: 654
+      alignment: 9
+      pivot: {x: 0.54691654, y: 0.38035113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.13687, y: 64.244934}
+        - {x: -40.13687, y: 11.244934}
+        - {x: -19.136871, y: -38.755066}
+        - {x: -9.136871, y: -38.755066}
+        - {x: 33.86313, y: 2.244934}
+        - {x: 33.86313, y: 28.244934}
+        - {x: 2.8631287, y: 64.244934}
+    - name: MoleSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1208
+        width: 519
+        height: 725
+      alignment: 9
+      pivot: {x: 0.4035066, y: 0.35753065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.974762, y: 73.57471}
+        - {x: -32.974762, y: -4.425293}
+        - {x: -22.974762, y: -40.425293}
+        - {x: 26.025238, y: -40.425293}
+        - {x: 49.025238, y: 38.574707}
+        - {x: 49.025238, y: 58.574707}
+        - {x: 45.025238, y: 73.57471}
+    - name: MoleSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 779
+        width: 237
+        height: 525
+      alignment: 9
+      pivot: {x: 0.57924163, y: 0.66693336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.842957, y: 28.359238}
+        - {x: -21.842957, y: -16.640762}
+        - {x: -3.8429565, y: -54.640762}
+        - {x: 15.157043, y: -54.640762}
+        - {x: 16.157043, y: -48.640762}
+        - {x: 16.157043, y: 21.359238}
+        - {x: 11.157043, y: 28.359238}
+    - name: MoleSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 279
+        width: 468
+        height: 731
+      alignment: 9
+      pivot: {x: 0.50668806, y: 0.6798357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.286285, y: 37.51776}
+        - {x: -31.286285, y: 37.51776}
+        - {x: -37.286285, y: -38.48224}
+        - {x: -37.286285, y: -73.48224}
+        - {x: -27.286285, y: -77.48224}
+        - {x: -1.2862854, y: -77.48224}
+        - {x: 9.713715, y: -72.48224}
+        - {x: 36.713715, y: -8.482239}
+        - {x: 36.713715, y: 2.5177612}
+    - name: MoleSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 253
+        width: 480
+        height: 750
+      alignment: 9
+      pivot: {x: 0.48043722, y: 0.66693324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.690002, y: 39.938126}
+        - {x: 19.690002, y: 39.938126}
+        - {x: -36.309998, y: 1.9381256}
+        - {x: -36.309998, y: -7.0618744}
+        - {x: -6.3099976, y: -78.061874}
+        - {x: 32.690002, y: -78.061874}
+        - {x: 39.690002, y: -71.061874}
+        - {x: 39.690002, y: -15.061874}
+        - {x: 32.690002, y: 38.938126}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
